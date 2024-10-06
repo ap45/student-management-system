@@ -1,6 +1,3 @@
-Here’s a simplified and unique version of the `README.md` for the Student Management System built with Django:
-
----
 
 # Student Management System Using Django
 
