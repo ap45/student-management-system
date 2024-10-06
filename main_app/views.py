@@ -101,7 +101,7 @@ importScripts('https://www.gstatic.com/firebasejs/7.22.1/firebase-messaging.js')
 // your app's Firebase config object.
 // https://firebase.google.com/docs/web/setup#config-object
 firebase.initializeApp({
-    apiKey: "AIzaSyBarDWWHTfTMSrtc5Lj3Cdw5dEvjAkFwtM",
+    apiKey: "Your-key",
     authDomain: "sms-with-django.firebaseapp.com",
     databaseURL: "https://sms-with-django.firebaseio.com",
     projectId: "sms-with-django",
